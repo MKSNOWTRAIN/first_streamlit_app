@@ -1,3 +1,3 @@
-import streamlimit
+import streamlit
 
-streamlimit.tittle('My Parents New Healthy Diner')
+streamlit.title('My Parents New Healthy Diner')
